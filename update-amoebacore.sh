@@ -1,0 +1,1 @@
+tce-load -wi git && 
